@@ -27,6 +27,7 @@ endmodule
 ```
 
 # Output:
-![318382908-406e7e48-98ad-407b-8bf1-4e5dc58e0822](https://github.com/vishalmagesh/HALF_SUBTRACTOR/assets/160302888/6f5826a3-f5ec-4508-92e0-c4ec55364729)
+![318385824-6f5826a3-f5ec-4508-92e0-c4ec55364729](https://github.com/Douglas0207/HALF_SUBTRACTOR/assets/166375742/cc1e27ca-f42c-4061-9593-f8933f97a82e)
+
 # Result:
 Hence Half Subtractor Verified.
